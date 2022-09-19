@@ -1,10 +1,11 @@
-# mikanos
-MikanOS: An Educational Operating System
+# Mushix OS
+Mushix OS: An Educational Operating System
 
 # Files
+This is the kernel dir.
 
-- MikanLoaderPkg
-    - The MikanOS loader as a UEFI Application
-
+# main-developer
+dangomushi
+ 
 # co-developer
 nop
