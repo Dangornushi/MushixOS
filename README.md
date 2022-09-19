@@ -5,3 +5,6 @@ MikanOS: An Educational Operating System
 
 - MikanLoaderPkg
     - The MikanOS loader as a UEFI Application
+
+# co-developer
+nop
